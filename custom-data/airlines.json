@@ -275,4 +275,8 @@
     "callsign": "Willow",
     "virtual": true
   }
-]
+ {
+    "icao": "OCE",
+    "name": "Air Oceanic",
+    "callsign": "OCEANIC",
+    "virtual": true
